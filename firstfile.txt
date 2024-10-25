@@ -9,3 +9,5 @@ learning
 creating a git branch feature1
 
 creating feature2 branch
+
+pull and fetch difference
